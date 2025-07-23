@@ -12,6 +12,12 @@ Dataset file used: german.data
 
 - Categorical features were encoded for model training.
 
+🌐 Live Demo
+
+Check out the live app here:  
+
+🔗 https://credit-scoring-prediction-app.streamlit.app/
+
 
 🚀 Features
 
@@ -45,12 +51,6 @@ Dataset file used: german.data
 5.reportlab for PDF generation
 
 6.hashlib for password hashing
-
-🌐 Live Demo
-
-Check out the live app here:  
-
-🔗 https://credit-scoring-prediction-app.streamlit.app/
 
 
 
