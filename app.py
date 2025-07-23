@@ -127,7 +127,7 @@ if st.session_state.logged_in:
     duration = st.slider("Duration of Credit (Months)", 4, 72, 24)
     credit_history = st.selectbox("Credit History", [0, 1, 2, 3, 4])
     purpose = st.selectbox("Purpose of Loan", list(range(10)))
-    credit_amount = st.number_input("Credit Amount (DM)", 100, 50000, 1500)
+    credit_amount = st.number_input("Credit Amount (DM)", 100, 1000000, 1500)
     savings = st.selectbox("Savings Account", [0, 1, 2, 3, 4])
     employment = st.selectbox("Employment Since", [0, 1, 2, 3, 4])
     installment_rate = st.slider("Installment Rate (% of Income)", 1, 4, 2)
