@@ -3,6 +3,7 @@
 This is a web-based application that predicts the creditworthiness of an individual based on various personal, financial, and employment-related details. The model is trained on the German Credit Data ataset and uses a Random Forest classifier for prediction.
 
 📂 Dataset
+
 Dataset link -  https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 Dataset file used: german.data  
