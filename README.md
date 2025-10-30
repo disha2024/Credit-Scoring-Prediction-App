@@ -1,6 +1,6 @@
 💳 Credit Scoring Prediction App
 
-This is a web-based application that predicts the creditworthiness of an individual based on various personal, financial, and employment-related details. The model is trained on the German Credit Data ataset and uses a Random Forest classifier for prediction.
+This is a web-based application that predicts the creditworthiness of an individual based on various personal, financial, and employment-related details. The model is trained on the German Credit Dataset and uses a Random Forest classifier for prediction.
 
 📂 Dataset
 
